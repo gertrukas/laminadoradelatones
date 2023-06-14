@@ -36,15 +36,43 @@ a:hover {
     color: var(--c-brand-light);
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+
+
+.-err{
+    border: 1px solid red;
 }
 
 .section-padding {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
+
+
+
+
+
+
+
+
+/* NAVBAR */
+.navbar {
+    box-shadow: var(--box-shadow);
+}
+
+.navbar-nav .nav-link {
+    font-weight: 500;
+    color: var(--c-dark);
+}
+
+.navbar-nav .nav-link.active {
+    color: var(--c-brand);
+}
+
+.dropdown-menu{
+  border-radius: 0px;
+}
+
 
 .theme-shadow {
     box-shadow: var(--box-shadow);
@@ -68,26 +96,6 @@ img {
 .image-zoom:hover .image-zoom-wrapper img {
     transform: scale(1.1);
 }
-
-
-/* NAVBAR */
-.navbar {
-    box-shadow: var(--box-shadow);
-}
-
-.navbar-nav .nav-link {
-    font-weight: 500;
-    color: var(--c-dark);
-}
-
-.navbar-nav .nav-link.active {
-    color: var(--c-brand);
-}
-
-.dropdown-menu{
-  border-radius: 0px;
-}
-
 
 /* BTN */
 .btn {
