@@ -292,6 +292,12 @@ a:hover {
     z-index: -1;
 }
 
+
+
+.-artestano{
+    background-image: url("../images/artestano.jpg");
+    margin-bottom: 20px;
+}
 #contact .form-control {
     border-radius: 0;
 }
