@@ -293,6 +293,11 @@ a:hover {
 }
 
 
+.-contactanos{
+    border: 1px solid #cf950b;
+    padding: 20px 20px 20px 20px;
+   
+}
 
 .-artestano{
     background-image: url("../images/artestano.jpg");
