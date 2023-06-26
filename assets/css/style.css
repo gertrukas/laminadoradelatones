@@ -303,6 +303,23 @@ a:hover {
     background-image: url("../images/artestano.jpg");
     margin-bottom: 20px;
 }
+
+.-artestano h1{
+    text-shadow: 2px 2px #ffffff;
+}
+
+.-descripcion{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.-somos{
+    background-image: url("../images/about.jpg");
+}
+
+.-somos p, h1, h5{
+    color:#000000;
+}
+
 #contact .form-control {
     border-radius: 0;
 }
