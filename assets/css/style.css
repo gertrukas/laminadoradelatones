@@ -119,6 +119,17 @@ a:hover {
     text-shadow: 2px 2px #000000;
 
 }
+.carousel-caption h1{
+    font-size: 4rem;
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+.carousel-caption h2{
+    font-size: 3.5rem;
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
 
 .carousel-caption p{
     font-size: 2rem;
@@ -136,6 +147,8 @@ a:hover {
     background-position: center;
     background-size: cover;
 }
+
+
 
 
 /* SECTION TITLE */
