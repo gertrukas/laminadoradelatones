@@ -4,11 +4,61 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>http://www.artestano.com/</loc>
-  <changefreq>always</changefreq>
-  <priority>1.00</priority>
-</url>
+    <url>
+      <loc>http://www.artestano.com/</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/nosotros</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/servicios</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/nosotros</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/lamina</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/solera</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/placas</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/maquila</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/producto-terminado</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/contacto</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>http://www.artestano.com/aviso-privacidad</loc>
+      <changefreq>always</changefreq>
+      <priority>1.00</priority>
+    </url>
 
 
 </urlset>
