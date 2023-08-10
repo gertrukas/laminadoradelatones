@@ -312,10 +312,27 @@ a:hover {
    
 }
 
+.-artestano-p{
+    background-image: url("../images/artestano.jpg");
+    min-height: 260px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .-artestano{
     background-image: url("../images/artestano.jpg");
     margin-bottom: 20px;
+
+    
 }
+
+
+
+
 
 .-artestano h1{
     text-shadow: 2px 2px #ffffff;
